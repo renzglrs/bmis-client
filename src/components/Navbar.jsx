@@ -8,7 +8,7 @@ const Navbar = () => {
         <>
             {/* Navbar */}
             <div className=" dark:bg-gray-700">
-                <nav className=" fixed top-0 w-full p-1 sm:pl-64
+                <nav className=" fixed top-0 z-30 w-full p-1 sm:pl-64
                                 bg-white border-b border-gray-200 
                                 dark:bg-gray-800 dark:border-gray-700">
                     <div className="px-3 py-1 lg:px-5 lg:pl-3">
